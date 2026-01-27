@@ -38,4 +38,4 @@ I'm actively seeking opportunities to grow as a developer. Whether it's an inter
 
 ---
 
-[GitHub](https://github.com/melikhanhosdogdu) | [LinkedIn](https://linkedin.com/in/melikhanhosdogdu) | [Email](mailto:melikhan.hosdogdu@gmail.com)
+[GitHub](https://github.com/melikhanhosdogdu) | [LinkedIn](https://linkedin.com/in/melikhanhosdogdu)
